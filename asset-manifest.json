@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bestiariy/static/css/main.a24f796f.css",
+    "main.js": "/bestiariy/static/js/main.d58aa514.js",
+    "static/media/one-page.jpg": "/bestiariy/static/media/one-page.1f63ae787596f6685274.jpg",
+    "static/media/page-3": "/bestiariy/static/media/page-3.f2d63bc7548555c0fe9d",
+    "static/media/page-5": "/bestiariy/static/media/page-5.25816b29124c6a3ce615",
+    "static/media/page-1": "/bestiariy/static/media/page-1.89a587cb86585404b7ee",
+    "static/media/page-4": "/bestiariy/static/media/page-4.979c4162b6535637db85",
+    "static/media/page-6": "/bestiariy/static/media/page-6.5f706318b253f3e4f3e3",
+    "static/media/page-7": "/bestiariy/static/media/page-7.8ba700c0ad74c2b4b426",
+    "static/media/page-2": "/bestiariy/static/media/page-2.758d121701ad0b4dbccd",
+    "static/media/two-page.jpg": "/bestiariy/static/media/two-page.352b7d26adf4abc6fb9a.jpg",
+    "static/media/three-page.jpg": "/bestiariy/static/media/three-page.59cc184dc63c3b34bb9b.jpg",
+    "static/media/horror.ttf": "/bestiariy/static/media/horror.9455e62c4ab8fc7ff91e.ttf",
+    "static/media/horrortext.ttf": "/bestiariy/static/media/horrortext.e927cfca034201243668.ttf",
+    "index.html": "/bestiariy/index.html",
+    "main.a24f796f.css.map": "/bestiariy/static/css/main.a24f796f.css.map",
+    "main.d58aa514.js.map": "/bestiariy/static/js/main.d58aa514.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a24f796f.css",
+    "static/js/main.d58aa514.js"
+  ]
+}
